@@ -19,7 +19,7 @@ msgstr ""
 
 #: forms.py:20
 msgid "Please provide a comma-separated list of tags."
-msgstr "Укажите метки через запятую."
+msgstr "Укажите теги через запятую."
 
 #: managers.py:41
 #: managers.py:101
@@ -29,7 +29,7 @@ msgstr "Метки"
 
 #: managers.py:102
 msgid "A comma-separated list of tags."
-msgstr "Список меток через запятую."
+msgstr "Список тегов через запятую."
 
 #: models.py:9
 msgid "Name"
@@ -41,12 +41,12 @@ msgstr "Слаг"
 
 #: models.py:16
 msgid "Tag"
-msgstr "Метка"
+msgstr "Тег"
 
 #: models.py:55
 #, python-format
 msgid "%(object)s tagged with %(tag)s"
-msgstr "элемент «%(object)s» с меткой «%(tag)s»"
+msgstr "элемент «%(object)s» с тегом «%(tag)s»"
 
 #: models.py:82
 msgid "Object id"
@@ -58,11 +58,11 @@ msgstr "Тип содержимого"
 
 #: models.py:87
 msgid "Tagged Item"
-msgstr "Элемент с меткой"
+msgstr "Элемент с тегом"
 
 #: models.py:88
 msgid "Tagged Items"
-msgstr "Элементы с меткой"
+msgstr "Элементы с тегом"
 
 #: contrib/suggest/models.py:57
 msgid "Enter a valid Regular Expression. To make it case-insensitive include \"(?i)\" in your expression."
