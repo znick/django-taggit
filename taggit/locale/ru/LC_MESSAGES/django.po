@@ -25,7 +25,7 @@ msgstr "Укажите теги через запятую."
 #: managers.py:101
 #: models.py:17
 msgid "Tags"
-msgstr "Метки"
+msgstr "Теги"
 
 #: managers.py:102
 msgid "A comma-separated list of tags."
